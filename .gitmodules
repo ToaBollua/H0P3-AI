@@ -1,0 +1,3 @@
+[submodule "apps/discord-chatbot"]
+	path = apps/discord-chatbot
+	url = https://github.com/ToaBollua/discord-chatbot
